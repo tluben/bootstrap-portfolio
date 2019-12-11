@@ -1,0 +1,17 @@
+#nav {
+    list-style-type: none;
+    float: right;       
+}
+#cont {
+    background-color: white;
+}
+ul#nav li {
+    display:inline;
+  }
+body {
+    background-color: lightgray;
+}
+#name {
+    text-align: center;
+}
+
